@@ -6,9 +6,9 @@
 - 📫 Contate-me no e-mail: lucasmeinen@yahoo.com.br
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sodrelucas/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas260691&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas260691&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https:"https://github.com/Lucas260691">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas260691&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas260691&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
