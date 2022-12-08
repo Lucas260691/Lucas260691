@@ -34,15 +34,4 @@ Sou o Lucas Sodré, formado em Desenvolvimento Web pela Trybe, também sou forma
   <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
-## GitHub Stats
-<table>
-<tr><td>
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas260691&show_icons=true&theme=blue-green" />
-  </a>
-</td><td>
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas260691&layout=compact&theme=blue-green" />
-  </a>
-</td></tr>
-</table>
+
