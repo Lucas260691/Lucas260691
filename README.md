@@ -1,6 +1,10 @@
 ## Bom dia, boa tarde e boa noite 👋
 
-Sou o Lucas Sodré, formado em Desenvolvimento Web pela Trybe, também sou formado em artes cênicas e gestão para restaurantes. Vivendo esse processo de transição de carreira me apaixonei por tecnologia e hoje dedico meu tempo para aprender cada vez mais sobre esse universo e tudo o que ele tem para ofereçer.
+Me chamo Lucas Meinen, sou desenvolvedor Fullstack com experiência em C#, .NET, Angular, SQL Server e no desenvolvimento de APIs REST.
+
+Atuo no backend com construção de APIs, regras de negócio, integrações e boas práticas de arquitetura. No frontend, desenvolvo interfaces modernas, performáticas e responsivas com Angular. Também tenho sólida experiência com bancos relacionais, incluindo modelagem, criação de procedures e otimização de consultas em SQL Server.
+
+Atualmente, estou em formação na Full Cycle, aprofundando meus conhecimentos em serviços de cloud (Docker, Kubernetes, CI/CD) e na linguagem Golang, com foco em arquitetura de microsserviços, escalabilidade e boas práticas de engenharia de software.
 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
 
